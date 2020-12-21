@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+# Analysis of COVID-19 in California by building Tableau Dashboard
+### By: Sushrut Hiray
 
 You can use the [editor on GitHub](https://github.com/sushrut812/California-Covid--19-Dashboard/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
